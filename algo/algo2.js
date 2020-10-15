@@ -3,7 +3,8 @@
 */
 
 function isEven(num) {
-  // ton code ici
+  const even = (num%2)
+  return (even==0) ? true : false;
 }
 
 

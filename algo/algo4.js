@@ -5,7 +5,8 @@
  */
 
 function addItemsPosition(strArray) {
-
+const newArray = strArray.map((string,index) => `${index + 1}. ${string}`);
+return newArray;
 }
 
 
