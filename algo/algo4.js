@@ -10,6 +10,7 @@ return newArray;
 }
 
 
+
 // Exemples d'appel pour vérifier
 // le bon fonctionnement de ton code
 // Ne pas modifier
